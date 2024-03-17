@@ -1,0 +1,2 @@
+berkeleydb==18.1.6
+lark==1.1.7
